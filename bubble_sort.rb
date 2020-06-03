@@ -13,7 +13,6 @@
 # so you can stop iterating further
 
 def bubble_sort(array_to_sort)
-  array_to_sort = [4,3,78,2,0,2]
   # at worst it takes n-1 iterations to sort n items
   number_of_iterations = array_to_sort.length - 1
   max = array_to_sort.length - 1
