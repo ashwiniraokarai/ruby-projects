@@ -8,3 +8,5 @@ https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher
 https://www.theodinproject.com/courses/ruby-programming/lessons/sub-strings
  * stock picker
 https://www.theodinproject.com/courses/ruby-programming/lessons/stock-picker
+* bubble sort
+https://www.theodinproject.com/lessons/bubble-sort
