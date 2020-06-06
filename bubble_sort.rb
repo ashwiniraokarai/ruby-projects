@@ -18,7 +18,7 @@ def bubble_sort(array_to_sort)
   max = array_to_sort.length - 1
 
   number_of_iterations.times do
-    #swap counter to track swap on every iteration. Reset to 0 at the beginning of every iteration.
+    #a swap-counter to track swap on every iteration. Reset to 0 at the beginning of every iteration.
     number_of_swaps = 0
     for index in 1..max
       if array_to_sort[index - 1] > array_to_sort[index]
@@ -33,7 +33,7 @@ def bubble_sort(array_to_sort)
     # optimization one
     max -= 1
 
-    # optimization two
+    # optimization two 
     if number_of_swaps == 0
       break
     end
